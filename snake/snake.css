@@ -1,0 +1,16 @@
+#playfield {
+    border-style: solid;
+    border-width: 2px;
+}
+
+body {
+    color: red;
+}
+
+#snake {
+    position: absolute;
+    left: 4px;
+    width: 700px;
+    height: 600px;
+    z-index: -1;
+}
